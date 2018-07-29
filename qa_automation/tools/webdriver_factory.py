@@ -13,7 +13,6 @@ from qa_automation.qa_settings import (
     BS_USER,
     BS_KEY,
     BS_DEBUG,
-    # BS_NETWORKLOGS,
 )
 import requests
 from django.conf import settings
